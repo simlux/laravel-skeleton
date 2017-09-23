@@ -37,16 +37,17 @@ php artisan app:name AppName
     composer require laravel/horizon
     php artisan vendor:publish --provider="Laravel\Horizon\HorizonServiceProvider"
     ```
-* [Curl](https://github.com/simlux/curl) - simlux/curl
-
-    ```
-    composer require simlux/curl
-    ```
 * [StringBuffer](https://github.com/simlux/string-buffer) - simlux/string-buffer
 
     ```
     composer require simlux/string-buffer
     ```
+* [Curl](https://github.com/simlux/curl) - simlux/curl
+
+    ```
+    composer require simlux/curl
+    ```
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
